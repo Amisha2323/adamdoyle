@@ -1,0 +1,3 @@
+Incomplete mapping for DYSPNEA
+Incorrect calculation for BMI Score
+Missing data files.
